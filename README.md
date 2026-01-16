@@ -49,5 +49,5 @@ A critical test was performed by disabling the primary interface on **R1-CORE-A*
 This project demonstrates the practical application of high-availability protocols in modern networking. It ensures that the infrastructure can withstand hardware failures without impacting the end-user experience.
 
 ---
-**Developed by:** [Your Name]  
+**Developed by:** [Eduardo]  
 **Date:** January 2026
